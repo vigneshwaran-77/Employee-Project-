@@ -1,0 +1,12 @@
+.wrap{margin-top:12px}
+.hr{opacity:0.06;margin:14px 0}
+.row{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
+.controls{display:flex;gap:8px;margin-top:12px}
+.btn{padding:10px 12px;border-radius:10px;border:0;cursor:pointer;font-weight:600;box-shadow:0 6px 18px rgba(0,0,0,0.35);background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted)}
+.btn:hover{background:rgba(255,255,255,0.08)}
+.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted)}
+.btn.ghost:hover{background:rgba(255,255,255,0.08)}
+
+.small{font-size:13px;color:var(--muted)}
+
+
